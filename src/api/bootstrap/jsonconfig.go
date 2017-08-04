@@ -39,6 +39,4 @@ func LoadJSON(configFile string, p parser) {
 		log.Println("json config error")
 		log.Fatalln("Could not parse %q: %v", configFile, err)
 	}
-
-	//log.Println("json config ", p.ParseJSON(jsonBytes))
 }

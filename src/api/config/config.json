@@ -10,7 +10,7 @@
 		},
 		"Postgresql" : {
 			"Username" : "taufikramdani",
-			"Password" : "271003ts",
+			"Password" : "testing",
 			"Name"	   : "api"
 		}
 	}
