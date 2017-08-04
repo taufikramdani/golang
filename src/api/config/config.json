@@ -1,0 +1,17 @@
+{
+	"Database": {
+		"Type"  : "Postgresql",
+		"MySQL" : {
+			"Hostname" : "localhost",
+			"Username" : "root",
+			"Password" : "root",
+			"Port"	   : 3306,
+			"Parameter": "?parseTime=true"
+		},
+		"Postgresql" : {
+			"Username" : "taufikramdani",
+			"Password" : "271003ts",
+			"Name"	   : "api"
+		}
+	}
+}
